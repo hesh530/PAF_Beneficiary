@@ -17,7 +17,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 input[type=text] {
   width: 100%;
-  padding: 8px;
+  padding: 7px;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
@@ -28,7 +28,7 @@ input[type=text] {
 
 input[type=password]{
   width: 100%;
-  padding: 8px;
+  padding: 7px;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
